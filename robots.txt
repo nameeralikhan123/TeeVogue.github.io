@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nameeralikhan123.github.io/TeeVogue.github.io/sitemap.xml

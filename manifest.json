@@ -1,0 +1,16 @@
+{
+  "name": "TeeVogue",
+  "short_name": "TeeVogue",
+  "description": "Shop premium quality Collar and Round Neck T-shirts by TeeVogue.",
+  "start_url": "/TeeVogue.github.io/",
+  "display": "standalone",
+  "background_color": "#0c0c12",
+  "theme_color": "#0c0c12",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
